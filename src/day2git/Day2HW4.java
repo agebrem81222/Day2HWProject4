@@ -6,5 +6,7 @@ public class Day2HW4 {
 		
 		System.out.println("day 2 HW4");
 	}
-
+public void add(int a, int b) {
+	System.out.println(a+b);
+}
 }
